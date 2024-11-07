@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy <a href="https://aristi.dev">Carlos</a> 👋</h1>
-  <img src="https://i.imgur.com/NTrNroJ.png" width="600">
+  <img src="https://i.imgur.com/NTrNroJ.png" width="1000">
 </div>
 
 
